@@ -1,6 +1,6 @@
 package com.konovalov.spring.rest.dao;
 
-import com.konovalov.spring.mvc_hibernate_aop.entity.Employee;
+import com.konovalov.spring.rest.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;

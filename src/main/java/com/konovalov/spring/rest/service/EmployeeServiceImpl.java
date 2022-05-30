@@ -1,7 +1,7 @@
 package com.konovalov.spring.rest.service;
 
-import com.konovalov.spring.mvc_hibernate_aop.dao.EmployeeDAO;
-import com.konovalov.spring.mvc_hibernate_aop.entity.Employee;
+import com.konovalov.spring.rest.dao.EmployeeDAO;
+import com.konovalov.spring.rest.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

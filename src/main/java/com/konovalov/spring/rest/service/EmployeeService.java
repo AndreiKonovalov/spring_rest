@@ -1,6 +1,6 @@
 package com.konovalov.spring.rest.service;
 
-import com.konovalov.spring.mvc_hibernate_aop.entity.Employee;
+import com.konovalov.spring.rest.entity.Employee;
 
 import java.util.List;
 
